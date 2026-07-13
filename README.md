@@ -1,13 +1,10 @@
-# Circle S Rocksaw Website
+# Circle S Rocksaw — Original Design Refresh
 
-Upload all files and folders in this folder to GitHub/Vercel. The site uses relative paths so it also previews correctly by opening `index.html` on a computer.
+This package keeps the original website design and adds current customer reviews, new project photos, call/text buttons, and removes final grading.
 
-Required files/folders:
-- index.html
-- styles.css
-- assets/
-- services/
-- projects/
-- service-areas/
-- sitemap.xml
-- robots.txt
+Upload all files and folders inside this folder to the existing GitHub repository.
+
+
+Review fix: the Reviews navigation link now scrolls to the review section, and both Google review buttons open a Google Maps search for Circle S Rocksaw in a new tab.
+
+Review display fix: review text now has explicit dark text styling, a clear heading, and a Verified 5-Star Google Review label. Reviewer names were not added because they were not provided.
